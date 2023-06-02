@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070473169155",
+    "project_id": "app-travel-d254c",
+    "storage_bucket": "app-travel-d254c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070473169155:android:273edcc2d190af87040136",
+        "android_client_info": {
+          "package_name": "com.farrel.app_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070473169155-cmebu497ltt4e1t4lub057rgiu5hoerl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farrel.app_travel",
+            "certificate_hash": "89302a75aa32ad02e80612f244b491e620a3720b"
+          }
+        },
+        {
+          "client_id": "1070473169155-l38rcm0ffojb66mkqfeigjls5agqjm33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVgY-_DZw8jyV5LItkiOgkhrVfYvpbV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070473169155-l38rcm0ffojb66mkqfeigjls5agqjm33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
